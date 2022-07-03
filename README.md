@@ -1,6 +1,6 @@
-## Hi there 👋
-### software engineer | linguist
-
+### Hi there 👋
+- software engineer | linguist
+- Pronouns: she/her/hers
 
 
 [![Xiaowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwnnie)](https://github.com/anuraghazra/github-readme-stats)
