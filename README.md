@@ -1,5 +1,5 @@
-<h2 align="center">Hi there 👋</h3>
-<h3 align="center">software engineer | linguist</h3>
+##Hi there 👋
+###software engineer | linguist
 
 
 
